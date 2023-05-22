@@ -1,0 +1,92 @@
+.container{
+    /* background-color: aqua; */
+    background-color: #fff;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.heading-title{
+    margin-top: 0%;
+    padding-top: 5rem;
+    font-weight: 700;
+    font-size: 28px;
+}
+.card-section{
+    /* background-color: aquamarine; */
+    background-color: #fff;
+    width: 100%;
+    height: 82vh;
+    display: flex;
+    flex-direction: column;
+}
+.card-pile1{
+    /* background-color: cadetblue; */
+    background-color: #fff;
+    width: 100%;
+    height: 41vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center !important ;
+    
+    
+
+}
+.pile1{
+    /* background-color: bisque; */
+    background-color: #fff;
+    width: 85%;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    margin-top: 2.5rem;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.card-pile2{
+    /* background-color: cornflowerblue; */
+    background-color: #fff;
+    width: 100%;
+    height: 40.6vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+}
+.pile2{
+    /* background-color: bisque; */
+    background-color: #fff;
+    width: 85%;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    margin-top: 2.5rem;
+    align-items: center;
+    justify-content: space-around;
+}
+.card{
+    /* background-color: #fff; */
+    background-color: #f7f7f7;
+    width: 25%;
+    height: 18vh;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.card-icon{
+    /* background-color: crimson; */
+    background-color: #f7f7f7;
+    width: 28%;
+    margin: 1.3rem;
+    
+    
+    
+}
+.card-content{
+    /* background-color: rebeccapurple; */
+    background-color: #f7f7f7;
+    display: flex;
+    flex-direction: column;
+}
